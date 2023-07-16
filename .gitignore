@@ -1,0 +1,8 @@
+#Virtual environments
+.env*
+/env
+environment*
+environment
+
+#Node packages
+node_modules/
