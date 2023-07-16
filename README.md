@@ -72,7 +72,7 @@ http://localhost:5001/api/users/register
     "first_name": "Daniel",
     "last_name": "Otieno",
     "email":"danotieno993@gmail.com",
-    "password":"2Sg846r9AbPBnjw9"
+    "password":"mypassword"
  }
 ```
 ### Reference
